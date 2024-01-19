@@ -1,5 +1,4 @@
 # company-web
-Repositorio para almacenar la interfaz gráfica de usuario del ejemplo usando Vue3
 
 ## Project setup
 ```
@@ -20,3 +19,6 @@ npm run build
 ```
 npm run lint
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
